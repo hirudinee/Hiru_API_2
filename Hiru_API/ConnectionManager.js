@@ -6,7 +6,7 @@ module.exports=function(){
         host: process.env.EndPoint_Hiru,
         port: 3306,
         user: "test",
-        password: "12ww345678",
+        password: "12ww3456781",
         database: "hiru",
     };
     
